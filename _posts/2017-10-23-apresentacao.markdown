@@ -1,16 +1,17 @@
 ---
 layout: post
-title: "Polaroid Williamsburg"
+title: "Quem sou eu..."
 date: 2017-10-23
 description: 
 image: /assets/images/placeholder-9.jpg
-author: Thomas Vaeth
+author: Nadia Nicolau
 tags: 
-  - Dummy Text
-  - Moon Drinking
-  - Kale
+  - fotografia
+  - cinema
+  - arte
 ---
-Etsy squid occupy pop-up. Polaroid +1 everyday carry, kogi chillwave tacos raclette heirloom etsy next level cred locavore. Blog street art DIY, pug crucifix asymmetrical chicharrones. Small batch af single-origin coffee, scenester humblebrag fashion axe viral schlitz you probably haven’t heard of them. Kickstarter synth poutine brunch hoodie. Gochujang marfa raclette kickstarter tumeric kinfolk gentrify retro skateboard, forage meggings polaroid kombucha. Tilde mlkshk fam meggings.
+
+Meu nome é Nadia Nicolau, sou Argentina,  nasci em Buenos Aires.  Tenho 37 anos de idade. Sou Fotógrafa e Videomaker a mais de 15 anos. Tenho estudos formais em Design de Imagem e Som na Faculdade de Design, Arquitetura e Urbanismo, e em Fotografia e Investigação Documental na Faculdade de Filosofia e Humanidades da Universidade de Buenos Aires. Cheguei a Brasil no 2015 morei e fez vivencias nas Casas Coletivas de Fora do Eixo de Rio de Janeiro, São Paulo, Brasília e Belo Horizonte. Trabalhei em viarias campanhas como Otros Carnavales, Vereadores que queremos, Campanha de Mulher, Minas LAB, Lab NINJA, NINJAS da Floresta, Missão NINJA em Brumadinho entre outras.
 
 * Actually YOLO marfa tofu shabby chic snackwave. Mumblecore hammock glossier affogato live-edge, tumblr pour-over iceland. Green juice art party flannel meggings, aesthetic kogi actually ramps ugh.
 * Church-key crucifix messenger bag health goth

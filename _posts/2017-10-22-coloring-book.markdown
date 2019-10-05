@@ -1,14 +1,12 @@
 ---
 layout: post
-title: "Coloring Book"
+title: "Cobertura xyz"
 date: 2017-10-22
 description: 
 image: /assets/images/placeholder-8.jpg
 author: Thomas Vaeth
 tags: 
-  - Squid
-  - Moon Drinking
-  - Kale
+  - fotografia
 ---
 Cred artisan post-ironic ramps chillwave. Cornhole letterpress beard literally master cleanse godard selvage blog tattooed actually vexillologist. Fingerstache tousled DIY +1. 
 
